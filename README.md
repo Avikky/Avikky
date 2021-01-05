@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Anih Victor
+I am a fulstack web developer. 
+I work with laravel, vuejs, nuxtjs, quasar framework which are basicaly javascript frameworks exccept for laravel which is a php framework.
 
-<!--
+<!--I'm a fulstack web developer. I work with laravel, vuejs, nuxtjs, quasar framework which are basicaly javascript and PHP for laravel.
 **Avikky/Avikky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I have experience with Building and working with laravel API's. 
+I also love nice looking web interfaces so I try to always make sure my design looks good;
+with that I think I can say that I have a very good design skills.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
